@@ -6,8 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{E24A214E-5DCA-4798-9CE7-D6EBD76B5083}"
 	ProjectSection(SolutionItems) = preProject
 		HojaDeEstilos.css = HojaDeEstilos.css
-		HTMLPage1.html = HTMLPage1.html
 		js\index.js = js\index.js
+		index.html = index.html
 	EndProjectSection
 EndProject
 Global
